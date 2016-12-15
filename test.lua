@@ -5,5 +5,4 @@ local function get_num(num)
 	if num == 0 then
 		return 0
 	end
-	return num % 10
 end
